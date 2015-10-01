@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 2e438d17d39522f4baa9d9b1be71a6ce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tela1-01_0
+    21300002: tela1-01_1
+    21300004: tela1-01_2
+    21300006: tela1-01_3
+    21300008: tela1-01_4
+    21300010: tela1-01_5
+    21300012: tela1-01_6
+    21300014: tela1-01_7
+    21300016: tela1-01_8
+    21300018: tela1-01_9
+    21300020: tela1-01_10
+    21300022: tela1-01_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tela1-01_5
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 2669
+        width: 3645
+        height: 2007
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tela1-01_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2943
+        width: 1049
+        height: 1064
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tela1-01_7
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3534
+        width: 354
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tela1-01_8
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 2953
+        width: 289
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tela1-01_9
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 3049
+        width: 277
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tela1-01_10
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 420
+        width: 3645
+        height: 2005
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tela1-01_11
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 2718
+        width: 317
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tela1-01_0
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 4137
+        width: 1697
+        height: 527
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: a99e0cb803ff4ad45877e91e963dfefc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: simbolos_0
+    21300002: simbolos_1
+    21300004: simbolos_2
+    21300006: simbolos_3
+    21300008: simbolos_4
+    21300010: simbolos_5
+    21300012: simbolos_6
+    21300014: simbolos_7
+    21300016: simbolos_8
+    21300018: simbolos_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: simbolos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 648
+        height: 676
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: simbolos_1
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 741
+        width: 335
+        height: 380
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: simbolos_2
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 727
+        width: 368
+        height: 304
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: simbolos_3
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 762
+        width: 401
+        height: 341
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: simbolos_4
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 757
+        width: 230
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: simbolos_5
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 747
+        width: 118
+        height: 362
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: simbolos_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 317
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

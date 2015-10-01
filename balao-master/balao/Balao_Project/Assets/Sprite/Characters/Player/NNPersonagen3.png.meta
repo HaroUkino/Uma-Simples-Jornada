@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 6f488b5ea80b901489d2a7302f0e8d12
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NNPersonagen3_0
+    21300002: NNPersonagen3_1
+    21300004: NNPersonagen3_2
+    21300006: NNPersonagen3_3
+    21300008: NNPersonagen3_4
+    21300010: NNPersonagen3_5
+    21300012: NNPersonagen3_6
+    21300014: NNPersonagen3_7
+    21300016: NNPersonagen3_8
+    21300018: NNPersonagen3_9
+    21300020: NNPersonagen3_10
+    21300022: NNPersonagen3_11
+    21300024: NNPersonagen3_12
+    21300026: NNPersonagen3_13
+    21300028: NNPersonagen3_14
+    21300030: NNPersonagen3_15
+    21300032: NNPersonagen3_16
+    21300034: NNPersonagen3_17
+    21300036: NNPersonagen3_18
+    21300038: NNPersonagen3_19
+    21300040: NNPersonagen3_20
+    21300042: NNPersonagen3_21
+    21300044: NNPersonagen3_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 140
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NNPersonagen3_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 752
+        width: 168
+        height: 308
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 755
+        width: 171
+        height: 301
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 755
+        width: 168
+        height: 303
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 410
+        width: 173
+        height: 310
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 411
+        width: 166
+        height: 315
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 410
+        width: 166
+        height: 316
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 411
+        width: 165
+        height: 311
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_7
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 411
+        width: 171
+        height: 307
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_8
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 411
+        width: 163
+        height: 304
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_9
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 411
+        width: 173
+        height: 316
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_10
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 411
+        width: 162
+        height: 310
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_11
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 411
+        width: 165
+        height: 307
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 79
+        width: 166
+        height: 280
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 79
+        width: 172
+        height: 289
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 84
+        width: 184
+        height: 299
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 83
+        width: 185
+        height: 282
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_16
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 89
+        width: 178
+        height: 265
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_17
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 93
+        width: 179
+        height: 258
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_18
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 79
+        width: 182
+        height: 261
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_19
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 79
+        width: 191
+        height: 260
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_20
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 83
+        width: 183
+        height: 266
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_21
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 79
+        width: 186
+        height: 264
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NNPersonagen3_22
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 71
+        width: 209
+        height: 275
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
