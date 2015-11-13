@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 91ff5bfd734a64a40a5c490dc6954474
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: acc_0
+    21300002: acc_1
+    21300004: acc_2
+    21300006: acc_3
+    21300008: acc_4
+    21300010: acc_5
+    21300012: acc_6
+    21300014: acc_7
+    21300016: acc_8
+    21300018: acc_9
+    21300020: acc_10
+    21300022: acc_11
+    21300024: acc_12
+    21300026: acc_13
+    21300028: acc_14
+    21300030: acc_15
+    21300032: acc_16
+    21300034: acc_17
+    21300036: acc_18
+    21300038: acc_19
+    21300040: acc_20
+    21300042: acc_21
+    21300044: acc_22
+    21300046: acc_23
+    21300048: acc_24
+    21300050: acc_25
+    21300052: acc_26
+    21300054: acc_27
+    21300056: acc_28
+    21300058: acc_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 350
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: acc_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2354
+        width: 633
+        height: 663
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_1
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2475
+        width: 489
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_2
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 2470
+        width: 425
+        height: 543
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_3
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2420
+        width: 387
+        height: 533
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_4
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 2634
+        width: 469
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_5
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 2493
+        width: 501
+        height: 478
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_6
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 2582
+        width: 164
+        height: 364
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_7
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 2252
+        width: 492
+        height: 745
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_8
+      rect:
+        serializedVersion: 2
+        x: 5911
+        y: 2336
+        width: 738
+        height: 736
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_9
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 2406
+        width: 518
+        height: 552
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1336
+        width: 429
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1261
+        width: 426
+        height: 483
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_12
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1279
+        width: 569
+        height: 455
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_13
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1336
+        width: 476
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_14
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 1213
+        width: 408
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_15
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1316
+        width: 480
+        height: 466
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_16
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 1359
+        width: 205
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_17
+      rect:
+        serializedVersion: 2
+        x: 5116
+        y: 1125
+        width: 586
+        height: 566
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_18
+      rect:
+        serializedVersion: 2
+        x: 5911
+        y: 1277
+        width: 433
+        height: 571
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_19
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 1333
+        width: 452
+        height: 463
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 441
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_21
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 231
+        width: 397
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_22
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 158
+        width: 212
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_23
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 165
+        width: 476
+        height: 371
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_24
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 81
+        width: 309
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_25
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 115
+        width: 113
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_26
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 28
+        width: 467
+        height: 411
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_27
+      rect:
+        serializedVersion: 2
+        x: 5043
+        y: 127
+        width: 632
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_28
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 147
+        width: 485
+        height: 464
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acc_29
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 243
+        width: 441
+        height: 444
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

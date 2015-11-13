@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: be7533728c7a9d14ca8bc5d47ff09362
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BALAO_OK-03_0
+    21300002: BALAO_OK-03_1
+    21300004: BALAO_OK-03_2
+    21300006: BALAO_OK-03_3
+    21300008: BALAO_OK-03_4
+    21300010: BALAO_OK-03_5
+    21300012: BALAO_OK-03_6
+    21300014: BALAO_OK-03_7
+    21300016: BALAO_OK-03_8
+    21300018: BALAO_OK-03_9
+    21300020: BALAO_OK-03_10
+    21300022: BALAO_OK-03_11
+    21300024: BALAO_OK-03_12
+    21300026: BALAO_OK-03_13
+    21300028: BALAO_OK-03_14
+    21300030: BALAO_OK-03_15
+    21300032: BALAO_OK-03_16
+    21300034: BALAO_OK-03_17
+    21300036: BALAO_OK-03_18
+    21300038: BALAO_OK-03_19
+    21300040: BALAO_OK-03_20
+    21300042: BALAO_OK-03_21
+    21300044: BALAO_OK-03_22
+    21300046: BALAO_OK-03_23
+    21300048: BALAO_OK-03_24
+    21300050: BALAO_OK-03_25
+    21300052: BALAO_OK-03_26
+    21300054: BALAO_OK-03_27
+    21300056: BALAO_OK-03_28
+    21300058: BALAO_OK-03_29
+    21300060: BALAO_OK-03_30
+    21300062: BALAO_OK-03_31
+    21300064: BALAO_OK-03_32
+    21300066: BALAO_OK-03_33
+    21300068: BALAO_OK-03_34
+    21300070: BALAO_OK-03_35
+    21300072: BALAO_OK-03_36
+    21300074: BALAO_OK-03_37
+    21300076: BALAO_OK-03_38
+    21300078: BALAO_OK-03_39
+    21300080: BALAO_OK-03_40
+    21300082: BALAO_OK-03_41
+    21300084: BALAO_OK-03_42
+    21300086: BALAO_OK-03_43
+    21300088: BALAO_OK-03_44
+    21300090: BALAO_OK-03_45
+    21300092: BALAO_OK-03_46
+    21300094: BALAO_OK-03_47
+    21300096: BALAO_OK-03_48
+    21300098: BALAO_OK-03_49
+    21300100: BALAO_OK-03_50
+    21300102: BALAO_OK-03_51
+    21300104: BALAO_OK-03_52
+    21300106: BALAO_OK-03_53
+    21300108: BALAO_OK-03_54
+    21300110: BALAO_OK-03_55
+    21300112: BALAO_OK-03_56
+    21300114: BALAO_OK-03_57
+    21300116: BALAO_OK-03_58
+    21300118: BALAO_OK-03_59
+    21300120: BALAO_OK-03_60
+    21300122: BALAO_OK-03_61
+    21300124: BALAO_OK-03_62
+    21300126: BALAO_OK-03_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BALAO_OK-03_0
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 8804
+        width: 234
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 8831
+        width: 179
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_2
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 8831
+        width: 180
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_3
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 8840
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_4
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 8849
+        width: 135
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_5
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 8921
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_6
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 8858
+        width: 162
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_7
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 8813
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_8
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 8759
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 8210
+        width: 477
+        height: 504
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_10
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 8219
+        width: 647
+        height: 423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_11
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 8219
+        width: 414
+        height: 351
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 7706
+        width: 405
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7697
+        width: 396
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 7706
+        width: 405
+        height: 351
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 7220
+        width: 387
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_16
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 7229
+        width: 386
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_17
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 7220
+        width: 278
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_18
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 6716
+        width: 216
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_19
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6707
+        width: 207
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_20
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 6716
+        width: 242
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_21
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 6869
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_22
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 6716
+        width: 216
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_23
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 6707
+        width: 315
+        height: 414
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_24
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 6842
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_25
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 6419
+        width: 189
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_26
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 6078
+        width: 448
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_27
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 6069
+        width: 252
+        height: 386
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_28
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 6069
+        width: 503
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 6276
+        width: 189
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6043
+        width: 202
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_31
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 5898
+        width: 189
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_32
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 5781
+        width: 116
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_33
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 5646
+        width: 270
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_34
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 5655
+        width: 162
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 5295
+        width: 436
+        height: 468
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_36
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 5511
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 5565
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_38
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 5511
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_39
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 5576
+        width: 286
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_40
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 5430
+        width: 117
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_41
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 5412
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_42
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 5295
+        width: 180
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_43
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 5254
+        width: 488
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_44
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 5295
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_45
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 5250
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_46
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 4773
+        width: 1025
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_47
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 4773
+        width: 144
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_48
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4764
+        width: 390
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_49
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 4368
+        width: 1019
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_50
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 4368
+        width: 122
+        height: 315
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_51
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4341
+        width: 404
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_52
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3603
+        width: 1019
+        height: 693
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_53
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 3612
+        width: 122
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_54
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 3630
+        width: 467
+        height: 594
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_55
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2974
+        width: 1025
+        height: 413
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_56
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2984
+        width: 1007
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_57
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2497
+        width: 1025
+        height: 405
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_58
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2452
+        width: 593
+        height: 414
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_59
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1858
+        width: 72
+        height: 423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_60
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1858
+        width: 135
+        height: 450
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_61
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1795
+        width: 179
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_62
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1966
+        width: 701
+        height: 414
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BALAO_OK-03_63
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 184
+        width: 2608
+        height: 1440
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

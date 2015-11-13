@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 1d48c78a184afbf46bad1d25d95fd0be
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Itens Cen\xE1rio-03-03-03_0"
+    21300002: "Itens Cen\xE1rio-03-03-03_1"
+    21300004: "Itens Cen\xE1rio-03-03-03_2"
+    21300006: "Itens Cen\xE1rio-03-03-03_3"
+    21300008: "Itens Cen\xE1rio-03-03-03_4"
+    21300010: "Itens Cen\xE1rio-03-03-03_5"
+    21300012: "Itens Cen\xE1rio-03-03-03_6"
+    21300014: "Itens Cen\xE1rio-03-03-03_7"
+    21300016: "Itens Cen\xE1rio-03-03-03_8"
+    21300018: "Itens Cen\xE1rio-03-03-03_9"
+    21300020: "Itens Cen\xE1rio-03-03-03_10"
+    21300022: "Itens Cen\xE1rio-03-03-03_11"
+    21300024: "Itens Cen\xE1rio-03-03-03_12"
+    21300026: "Itens Cen\xE1rio-03-03-03_13"
+    21300028: "Itens Cen\xE1rio-03-03-03_14"
+    21300030: "Itens Cen\xE1rio-03-03-03_15"
+    21300032: "Itens Cen\xE1rio-03-03-03_16"
+    21300034: "Itens Cen\xE1rio-03-03-03_17"
+    21300036: "Itens Cen\xE1rio-03-03-03_18"
+    21300038: "Itens Cen\xE1rio-03-03-03_19"
+    21300040: "Itens Cen\xE1rio-03-03-03_20"
+    21300042: "Itens Cen\xE1rio-03-03-03_21"
+    21300044: "Itens Cen\xE1rio-03-03-03_22"
+    21300046: "Itens Cen\xE1rio-03-03-03_23"
+    21300048: "Itens Cen\xE1rio-03-03-03_24"
+    21300050: "Itens Cen\xE1rio-03-03-03_25"
+    21300052: "Itens Cen\xE1rio-03-03-03_26"
+    21300054: "Itens Cen\xE1rio-03-03-03_27"
+    21300056: "Itens Cen\xE1rio-03-03-03_28"
+    21300058: "Itens Cen\xE1rio-03-03-03_29"
+    21300060: "Itens Cen\xE1rio-03-03-03_30"
+    21300062: "Itens Cen\xE1rio-03-03-03_31"
+    21300064: "Itens Cen\xE1rio-03-03-03_32"
+    21300066: "Itens Cen\xE1rio-03-03-03_33"
+    21300068: "Itens Cen\xE1rio-03-03-03_34"
+    21300070: "Itens Cen\xE1rio-03-03-03_35"
+    21300072: "Itens Cen\xE1rio-03-03-03_36"
+    21300074: "Itens Cen\xE1rio-03-03-03_37"
+    21300076: "Itens Cen\xE1rio-03-03-03_38"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Itens Cen\xE1rio-03-03-03_0"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2992
+        width: 1018
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_1"
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2992
+        width: 136
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_2"
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2971
+        width: 344
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_3"
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2988
+        width: 303
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_4"
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 3135
+        width: 89
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_5"
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2923
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_6"
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2964
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_7"
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2917
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_8"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2590
+        width: 1018
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_9"
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2590
+        width: 126
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_10"
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2740
+        width: 845
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_11"
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 2855
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_12"
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 2842
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_13"
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2750
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_14"
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 2713
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_15"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1820
+        width: 1021
+        height: 691
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_16"
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1827
+        width: 122
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_17"
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2488
+        width: 475
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_18"
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2488
+        width: 283
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_19"
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 2106
+        width: 74
+        height: 419
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_20"
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2099
+        width: 392
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_21"
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2099
+        width: 398
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_22"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1149
+        width: 460
+        height: 583
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_23"
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1698
+        width: 163
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_24"
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1578
+        width: 129
+        height: 450
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_25"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1200
+        width: 1011
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_26"
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1211
+        width: 164
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_27"
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 914
+        width: 183
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_28"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 645
+        width: 1022
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_29"
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 669
+        width: 586
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_30"
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 996
+        width: 163
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_31"
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 720
+        width: 162
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_32"
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 656
+        width: 116
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_33"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 165
+        width: 1022
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_34"
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 182
+        width: 694
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_35"
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 404
+        width: 160
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_36"
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 397
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_37"
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 121
+        width: 163
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Itens Cen\xE1rio-03-03-03_38"
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 145
+        width: 106
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

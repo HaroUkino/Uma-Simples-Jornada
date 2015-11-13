@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 61c0c3e4158ee3445ab3ef115378938f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chao chao chao chao chao chao avorez somos nozes_0
+    21300002: chao chao chao chao chao chao avorez somos nozes_1
+    21300004: chao chao chao chao chao chao avorez somos nozes_2
+    21300006: chao chao chao chao chao chao avorez somos nozes_3
+    21300008: chao chao chao chao chao chao avorez somos nozes_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 96
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chao chao chao chao chao chao avorez somos nozes_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 93
+        width: 1343
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao chao chao chao chao chao avorez somos nozes_1
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 94
+        width: 161
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao chao chao chao chao chao avorez somos nozes_2
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 100
+        width: 510
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao chao chao chao chao chao avorez somos nozes_3
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 89
+        width: 523
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao chao chao chao chao chao avorez somos nozes_4
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 92
+        width: 351
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

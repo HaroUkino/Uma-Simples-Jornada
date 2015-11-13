@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 107e6b3b6382f59479ae7e8a571daafe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: casas_0
+    21300002: casas_1
+    21300004: casas_2
+    21300006: casas_3
+    21300008: casas_4
+    21300010: casas_5
+    21300012: casas_6
+    21300014: casas_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: casas_0
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 580
+        width: 372
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: casas_1
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 580
+        width: 507
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: casas_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 319
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: casas_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 21
+        width: 298
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: casas_4
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 21
+        width: 316
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: casas_5
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 21
+        width: 315
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: casas_6
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 21
+        width: 315
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: casas_7
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 21
+        width: 303
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
